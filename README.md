@@ -6,7 +6,7 @@ Wilhelm Schickard (1592–1632) war nicht nur lutherischer Pfarrer und Dozent f�
 
 Damit baute Schickard die erste funktionierende Rechenmaschine und legte so, wie Michael R. Williams in seinem Buch **History of Computing Technology** bemerkt, einen wichtigen Grundstein für die Erfindung des Computers!
 
-Ein Nachbau der Rechenmaschine von Schickard kann im Stadtmuseum von Tübingen** bewundert werden. [Hier]((https://de.wikipedia.org/wiki/Wilhelm_Schickard#/media/Datei:Schickardmaschine.jpg) findet sich eine Abbildung dieses Nachbaus.
+Ein Nachbau der Rechenmaschine von Schickard kann im Stadtmuseum von Tübingen** bewundert werden. [Hier](https://de.wikipedia.org/wiki/Wilhelm_Schickard#/media/Datei:Schickardmaschine.jpg) findet sich eine Abbildung dieses Nachbaus.
 
 Übrigens erfand ein anderer Christ und berühmter Mathematiker wenige Jahre nach Schickard und ohne von diesem direkt beeinflusst worden zu sein, eine weitere Rechenmaschine. Sein Name war Blaise Pascal.
 
