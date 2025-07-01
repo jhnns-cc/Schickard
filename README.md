@@ -4,7 +4,7 @@
 
 Wilhelm Schickard (1592–1632) war nicht nur lutherischer Pfarrer und Dozent für Hebräisch, sondern auch begeisterter Astronom und Mathematiker. Für seinen Freund **Johannes Kepler**, mit dem er seine Leidenschaft für Wissenschaft genauso teilte wie seinen Glauben, erfand er unter anderem eine Rechenmaschine ([die Abbildung](https://de.wikipedia.org/wiki/Wilhelm_Schickard#/media/Datei:W_Schickard_-_Rechenmaschine_(Skizze_aus_dem_Brief_an_J._Kepler_25.2.1624_HP191).jpg) zeigt eine Originalzeichnung von Schickard), die Kepler bei seinen astronomischen Berechnungen helfen sollte.
 
-Damit baute Schickard die erste funktionierende Rechenmaschine und legte so, wie Michael R. Williams in seinem Buch **History of Computing Technology** bemerkt, einen wichtigen Grundstein für die Erfindung des Computers!
+Damit baute Schickard die erste funktionierende Rechenmaschine und legte so, wie Michael R. Williams in seinem Buch [History of Computing Technology](https://archive.org/details/historyofcomputi0000will/mode/2up) bemerkt, einen wichtigen Grundstein für die Erfindung des Computers!
 
 Ein Nachbau der Rechenmaschine von Schickard kann im Stadtmuseum von Tübingen** bewundert werden. [Hier](https://de.wikipedia.org/wiki/Wilhelm_Schickard#/media/Datei:Schickardmaschine.jpg) findet sich eine Abbildung dieses Nachbaus.
 
